@@ -26,7 +26,3 @@ This compressed folder contains the data presented in [Structure and Dynamics of
   - The authors used [22 Aug 2018](https://github.com/lammps/lammps/releases/tag/stable_22Aug2018) LAMMPS stable version in the simulations.
 - `/VMD scripts`: contains the VMD scripts for trajectory visualization. 
   - The authors used [VMD 1.9.4a55](https://www.ks.uiuc.edu/Research/vmd/alpha/) to build and run these `.tcl` files.
-
-## More info
-
-If additional clarification notes are necessary, the authors will update this compressed folder at https://github.com/QizhangJia/DopaDiff. Please check this repository for the most up-to-date README.
