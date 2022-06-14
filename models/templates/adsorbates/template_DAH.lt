@@ -1,0 +1,3 @@
+import "DAH.lt"				# Defines the "DAH" molecule
+analyte = new DAH
+analyte.move(-6.15, -10.65, -4.12)

@@ -1,0 +1,730 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/W32TeX) (preloaded format=pdflatex 2021.5.26)  10 JUN 2022 15:27
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**molecules-1734869-supplementary.tex
+(./molecules-1734869-supplementary.tex
+LaTeX2e <2020-02-02> patch level 5
+L3 programming layer <2020-03-06>
+(c:/texlive/2020/texmf-dist/tex/latex/achemso/achemso.cls
+Document Class: achemso 2019-02-14 v3.12a Submission to ACS journals
+(c:/texlive/2020/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2019/12/20 v1.4l Standard LaTeX document class
+(c:/texlive/2020/texmf-dist/tex/latex/base/size12.clo
+File: size12.clo 2019/12/20 v1.4l Standard LaTeX file (size option)
+)
+\c@part=\count167
+\c@section=\count168
+\c@subsection=\count169
+\c@subsubsection=\count170
+\c@paragraph=\count171
+\c@subparagraph=\count172
+\c@figure=\count173
+\c@table=\count174
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen134
+)
+(c:/texlive/2020/texmf-dist/tex/latex/xkeyval/xkeyval.sty
+Package: xkeyval 2014/12/03 v2.7a package option processing (HA)
+
+(c:/texlive/2020/texmf-dist/tex/generic/xkeyval/xkeyval.tex
+(c:/texlive/2020/texmf-dist/tex/generic/xkeyval/xkvutils.tex
+\XKV@toks=\toks15
+\XKV@tempa@toks=\toks16
+
+(c:/texlive/2020/texmf-dist/tex/generic/xkeyval/keyval.tex))
+\XKV@depth=\count175
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+))
+\acs@bib@file=\write3
+\c@bibnote=\count176
+
+(c:/texlive/2020/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+
+(c:/texlive/2020/texmf-dist/tex/generic/iftex/ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+
+(c:/texlive/2020/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2020/03/06 v1.0d TeX engine tests
+))
+\Gm@cnth=\count177
+\Gm@cntv=\count178
+\c@Gm@tempcnt=\count179
+\Gm@bindingoffset=\dimen135
+\Gm@wd@mp=\dimen136
+\Gm@odd@mp=\dimen137
+\Gm@even@mp=\dimen138
+\Gm@layoutwidth=\dimen139
+\Gm@layoutheight=\dimen140
+\Gm@layouthoffset=\dimen141
+\Gm@layoutvoffset=\dimen142
+\Gm@dimlist=\toks17
+)
+(c:/texlive/2020/texmf-dist/tex/latex/caption/caption.sty
+Package: caption 2020/01/03 v3.4h Customizing captions (AR)
+
+(c:/texlive/2020/texmf-dist/tex/latex/caption/caption3.sty
+Package: caption3 2020/01/03 v1.8h caption3 kernel (AR)
+Package caption3 Info: TeX engine: e-TeX on input line 61.
+\captionmargin=\dimen143
+\captionmargin@=\dimen144
+\captionwidth=\dimen145
+\caption@tempdima=\dimen146
+\caption@indent=\dimen147
+\caption@parindent=\dimen148
+\caption@hangindent=\dimen149
+Package caption Info: Standard document class detected.
+)
+\c@caption@flags=\count180
+\c@continuedfloat=\count181
+)
+(c:/texlive/2020/texmf-dist/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count182
+\float@exts=\toks18
+\float@box=\box45
+\@float@everytoks=\toks19
+\@floatcapt=\box46
+)
+(c:/texlive/2020/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2019/11/30 v1.2a Enhanced LaTeX Graphics (DPC,SPQR)
+
+(c:/texlive/2020/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2019/11/30 v1.4a Standard LaTeX Graphics (DPC,SPQR)
+
+(c:/texlive/2020/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(c:/texlive/2020/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 105.
+
+(c:/texlive/2020/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen150
+\Gin@req@width=\dimen151
+)
+(c:/texlive/2020/texmf-dist/tex/latex/setspace/setspace.sty
+Package: setspace 2011/12/19 v6.7a set line spacing
+)
+(c:/texlive/2020/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip16
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+\acs@author@cnt=\count183
+\acs@affil@cnt=\count184
+\acs@affil@alt@cnt=\count185
+\acs@footnote@cnt=\count186
+\acs@affil@marker@cnt=\count187
+\acs@space@pre@title=\skip49
+\acs@space@post@title=\skip50
+\acs@space@post@author=\skip51
+\acs@space@post@address=\skip52
+\acs@space@post@email=\skip53
+\acs@maketitle@width=\skip54
+\@float@every@scheme=\toks20
+\c@scheme=\count188
+\@float@every@chart=\toks21
+\c@chart=\count189
+\@float@every@graph=\toks22
+\c@graph=\count190
+\@float@every@table=\toks23
+\acs@collect@toks=\toks24
+\acs@collect@empty@toks=\toks25
+\acs@tocentry@height=\skip55
+\acs@tocentry@width=\skip56
+
+(c:/texlive/2020/texmf-dist/tex/latex/achemso/achemso-jpcbfk.cfg
+File: achemso-jpcbfk.cfg 2019-02-14 v3.12a achemso configuration: J. Phys. Chem
+. B
+)
+(c:/texlive/2020/texmf-dist/tex/latex/natbib/natbib.sty
+Package: natbib 2010/09/13 8.31b (PWD, AO)
+\bibhang=\skip57
+\bibsep=\skip58
+LaTeX Info: Redefining \cite on input line 694.
+\c@NAT@ctr=\count191
+)
+(c:/texlive/2020/texmf-dist/tex/latex/achemso/natmove.sty
+Package: natmove 2010/01/15 v1.1a Automatic citation moving with natbib
+)
+(c:/texlive/2020/texmf-dist/tex/latex/mciteplus/mciteplus.sty
+Package: mciteplus 2013/09/13 v1.2 enhanced mcite
+\@mcitetmptoksA=\toks26
+\@mcitetmpdima=\dimen152
+\@mcitetmpdimb=\dimen153
+\@mcitetmpcnta=\count192
+\@mcitetmpcntb=\count193
+\c@mcitebibitemcount=\count194
+\c@mcitesubitemcount=\count195
+
+** mciteplus: Detected natbib.sty. Invoking hooks.
+)) (c:/texlive/2020/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
+
+(c:/texlive/2020/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1352.
+Package xcolor Info: Model `RGB' extended on input line 1364.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
+)
+(c:/texlive/2020/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2020/01/20 v2.17e AMS math features
+\@mathmargin=\skip59
+
+For additional information on amsmath, use the `?' option.
+(c:/texlive/2020/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01 AMS text
+
+(c:/texlive/2020/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks27
+\ex@=\dimen154
+))
+(c:/texlive/2020/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen155
+)
+(c:/texlive/2020/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count196
+LaTeX Info: Redefining \frac on input line 227.
+\uproot@=\count197
+\leftroot@=\count198
+LaTeX Info: Redefining \overline on input line 389.
+\classnum@=\count199
+\DOTSCASE@=\count266
+LaTeX Info: Redefining \ldots on input line 486.
+LaTeX Info: Redefining \dots on input line 489.
+LaTeX Info: Redefining \cdots on input line 610.
+\Mathstrutbox@=\box47
+\strutbox@=\box48
+\big@size=\dimen156
+LaTeX Font Info:    Redeclaring font encoding OML on input line 733.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 734.
+\macc@depth=\count267
+\c@MaxMatrixCols=\count268
+\dotsspace@=\muskip17
+\c@parentequation=\count269
+\dspbrk@lvl=\count270
+\tag@help=\toks28
+\row@=\count271
+\column@=\count272
+\maxfields@=\count273
+\andhelp@=\toks29
+\eqnshift@=\dimen157
+\alignsep@=\dimen158
+\tagshift@=\dimen159
+\tagwidth@=\dimen160
+\totwidth@=\dimen161
+\lineht@=\dimen162
+\@envbody=\toks30
+\multlinegap=\skip60
+\multlinetaggap=\skip61
+\mathdisplay@stack=\toks31
+LaTeX Info: Redefining \[ on input line 2859.
+LaTeX Info: Redefining \] on input line 2860.
+)
+(c:/texlive/2020/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+(c:/texlive/2020/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
+(c:/texlive/2020/texmf-dist/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2020/01/14 v7.00d Hypertext links for LaTeX
+
+(c:/texlive/2020/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
+Package: ltxcmds 2019/12/15 v1.24 LaTeX kernel commands for general use (HO)
+)
+(c:/texlive/2020/texmf-dist/tex/latex/pdftexcmds/pdftexcmds.sty
+Package: pdftexcmds 2019/11/24 v0.31 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(c:/texlive/2020/texmf-dist/tex/generic/infwarerr/infwarerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+(c:/texlive/2020/texmf-dist/tex/generic/kvsetkeys/kvsetkeys.sty
+Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
+)
+(c:/texlive/2020/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+)
+(c:/texlive/2020/texmf-dist/tex/generic/pdfescape/pdfescape.sty
+Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
+)
+(c:/texlive/2020/texmf-dist/tex/latex/hycolor/hycolor.sty
+Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
+)
+(c:/texlive/2020/texmf-dist/tex/latex/letltxmacro/letltxmacro.sty
+Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
+)
+(c:/texlive/2020/texmf-dist/tex/latex/auxhook/auxhook.sty
+Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
+)
+(c:/texlive/2020/texmf-dist/tex/latex/kvoptions/kvoptions.sty
+Package: kvoptions 2019/11/29 v3.13 Key value format for package options (HO)
+)
+\@linkdim=\dimen163
+\Hy@linkcounter=\count274
+\Hy@pagecounter=\count275
+
+(c:/texlive/2020/texmf-dist/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2020/01/14 v7.00d Hyperref: PDFDocEncoding definition (HO)
+Now handling font encoding PD1 ...
+... no UTF-8 mapping file for font encoding PD1
+)
+(c:/texlive/2020/texmf-dist/tex/generic/intcalc/intcalc.sty
+Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
+)
+(c:/texlive/2020/texmf-dist/tex/generic/etexcmds/etexcmds.sty
+Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
+)
+\Hy@SavedSpaceFactor=\count276
+Package hyperref Info: Hyper figures OFF on input line 4547.
+Package hyperref Info: Link nesting OFF on input line 4552.
+Package hyperref Info: Hyper index ON on input line 4555.
+Package hyperref Info: Plain pages OFF on input line 4562.
+Package hyperref Info: Backreferencing OFF on input line 4567.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4800.
+\c@Hy@tempcnt=\count277
+LaTeX Info: Redefining \url on input line 5159.
+\XeTeXLinkMargin=\dimen164
+
+(c:/texlive/2020/texmf-dist/tex/generic/bitset/bitset.sty
+Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
+
+(c:/texlive/2020/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
+)
+))
+\Fld@menulength=\count278
+\Field@Width=\dimen165
+\Fld@charsize=\dimen166
+Package hyperref Info: Hyper figures OFF on input line 6430.
+Package hyperref Info: Link nesting OFF on input line 6435.
+Package hyperref Info: Hyper index ON on input line 6438.
+Package hyperref Info: backreferencing OFF on input line 6445.
+Package hyperref Info: Link coloring OFF on input line 6450.
+Package hyperref Info: Link coloring with OCG OFF on input line 6455.
+Package hyperref Info: PDF/A mode OFF on input line 6460.
+LaTeX Info: Redefining \ref on input line 6500.
+LaTeX Info: Redefining \pageref on input line 6504.
+
+(c:/texlive/2020/texmf-dist/tex/generic/atbegshi/atbegshi.sty
+Package: atbegshi 2019/12/05 v1.19 At begin shipout hook (HO)
+)
+\Hy@abspage=\count279
+\c@Item=\count280
+\c@Hfootnote=\count281
+)
+Package hyperref Info: Driver (autodetected): hpdftex.
+
+(c:/texlive/2020/texmf-dist/tex/latex/hyperref/hpdftex.def
+File: hpdftex.def 2020/01/14 v7.00d Hyperref driver for pdfTeX
+
+(c:/texlive/2020/texmf-dist/tex/latex/atveryend/atveryend.sty
+Package: atveryend 2019-12-11 v1.11 Hooks at the very end of document (HO)
+Package atveryend Info: \enddocument detected (standard20110627).
+)
+\Fld@listcount=\count282
+\c@bookmark@seq@number=\count283
+
+(c:/texlive/2020/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
+Package: rerunfilecheck 2019/12/05 v1.9 Rerun checks for auxiliary files (HO)
+
+(c:/texlive/2020/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty
+Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
+)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+86.
+)
+\Hy@SectionHShift=\skip62
+)
+(c:/texlive/2020/texmf-dist/tex/generic/ulem/ulem.sty
+\UL@box=\box49
+\UL@hyphenbox=\box50
+\UL@skip=\skip63
+\UL@hook=\toks32
+\UL@height=\dimen167
+\UL@pe=\count284
+\UL@pixel=\dimen168
+\ULC@box=\box51
+Package: ulem 2019/11/18
+\ULdepth=\dimen169
+)
+(c:/texlive/2020/texmf-dist/tex/latex/sttools/stfloats.sty
+Package: stfloats 2017/03/27 v3.3 Improve float mechanism and baselineskip sett
+ings
+\@dblbotnum=\count285
+\c@dblbotnumber=\count286
+)
+(c:/texlive/2020/texmf-dist/tex/latex/multirow/multirow.sty
+Package: multirow 2019/05/31 v2.5 Span multiple rows of a table
+\multirow@colwidth=\skip64
+\multirow@cntb=\count287
+\multirow@dima=\skip65
+\bigstrutjot=\dimen170
+)
+(c:/texlive/2020/texmf-dist/tex/latex/subfig/subfig.sty
+Package: subfig 2005/06/28 ver: 1.3 subfig package
+\c@KVtest=\count288
+\sf@farskip=\skip66
+\sf@captopadj=\dimen171
+\sf@capskip=\skip67
+\sf@nearskip=\skip68
+\c@subfigure=\count289
+\c@subfigure@save=\count290
+\c@lofdepth=\count291
+\c@subtable=\count292
+\c@subtable@save=\count293
+\c@lotdepth=\count294
+\sf@top=\skip69
+\sf@bottom=\skip70
+)
+(c:/texlive/2020/texmf-dist/tex/latex/l3backend/l3backend-pdfmode.def
+File: l3backend-pdfmode.def 2020-03-12 L3 backend support: PDF mode
+\l__kernel_color_stack_int=\count295
+\l__pdf_internal_box=\box52
+)
+(./molecules-1734869-supplementary.aux)
+\openout1 = `molecules-1734869-supplementary.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+\openout3 = `acs-molecules-1734869-supplementary.bib'.
+
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: letterpaper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(54.91382pt, 504.46736pt, 54.91382pt)
+* v-part:(T,H,B)=(36.13498pt, 711.03438pt, 47.80063pt)
+* \paperwidth=614.295pt
+* \paperheight=794.96999pt
+* \textwidth=504.46736pt
+* \textheight=711.03438pt
+* \oddsidemargin=-17.35617pt
+* \evensidemargin=-17.35617pt
+* \topmargin=-73.13501pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=12.0pt
+* \footskip=30.0pt
+* \marginparwidth=44.0pt
+* \marginparsep=10.0pt
+* \columnsep=23.04674pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumntrue
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: subfig package v1.3 is loaded.
+Package caption Info: float package is loaded.
+Package caption Info: hyperref package is loaded.
+Package caption Info: End \AtBeginDocument code.
+(c:/texlive/2020/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count296
+\scratchdimen=\dimen172
+\scratchbox=\box53
+\nofMPsegments=\count297
+\nofMParguments=\count298
+\everyMPshowfont=\toks33
+\MPscratchCnt=\count299
+\MPscratchDim=\dimen173
+\MPnumerator=\count300
+\makeMPintoPDFobject=\count301
+\everyMPtoPDFconversion=\toks34
+) (c:/texlive/2020/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(c:/texlive/2020/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+\AtBeginShipoutBox=\box54
+Package hyperref Info: Link coloring OFF on input line 28.
+
+(c:/texlive/2020/texmf-dist/tex/latex/hyperref/nameref.sty
+Package: nameref 2019/09/16 v2.46 Cross-referencing by name of section
+
+(c:/texlive/2020/texmf-dist/tex/latex/refcount/refcount.sty
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
+)
+(c:/texlive/2020/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
+)
+\c@section@level=\count302
+)
+LaTeX Info: Redefining \ref on input line 28.
+LaTeX Info: Redefining \pageref on input line 28.
+LaTeX Info: Redefining \nameref on input line 28.
+
+(./molecules-1734869-supplementary.out) (./molecules-1734869-supplementary.out)
+\@outlinefile=\write4
+\openout4 = `molecules-1734869-supplementary.out'.
+
+
+Class achemso Warning: \and not used by the achemso class: please see the
+(achemso)              package documentation for details on input line 29.
+
+
+Class achemso Warning: \and not used by the achemso class: please see the
+(achemso)              package documentation for details on input line 29.
+
+LaTeX Font Info:    Trying to load font information for U+msa on input line 29.
+
+(c:/texlive/2020/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 29.
+
+
+(c:/texlive/2020/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+) [1{c:/texlive/2020/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
+
+
+
+]
+Underfull \hbox (badness 1168) in paragraph at lines 68--69
+\OT1/cmr/bx/n/12 Projecting ad-sor-bate tra-jec-to-ries onto
+ []
+
+LaTeX Font Info:    Trying to load font information for OMS+cmr on input line 7
+0.
+(c:/texlive/2020/texmf-dist/tex/latex/base/omscmr.fd
+File: omscmr.fd 2019/12/16 v2.5j Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 70.
+<Appendices/MSD_concepts.png, id=42, 592.2125pt x 590.205pt>
+File: Appendices/MSD_concepts.png Graphic file (type png)
+<use Appendices/MSD_concepts.png>
+Package pdftex.def Info: Appendices/MSD_concepts.png  used on input line 83.
+(pdftex.def)             Requested size: 201.78386pt x 201.09932pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+Overfull \hbox (9.51396pt too wide) in paragraph at lines 94--94
+[]\OT1/cmr/m/n/10 (a)|| 
+ []
+
+<Appendices/azimuthal_continuity/fig1_5ns.png, id=49, 243.5499pt x 179.2296pt>
+File: Appendices/azimuthal_continuity/fig1_5ns.png Graphic file (type png)
+<use Appendices/azimuthal_continuity/fig1_5ns.png>
+Package pdftex.def Info: Appendices/azimuthal_continuity/fig1_5ns.png  used on 
+input line 94.
+(pdftex.def)             Requested size: 227.00876pt x 167.05646pt.
+
+Overfull \hbox (10.06952pt too wide) in paragraph at lines 95--95
+[]\OT1/cmr/m/n/10 (b)|| 
+ []
+
+<Appendices/azimuthal_continuity/distn_of_displacement.png, id=50, 238.491pt x 
+179.2296pt>
+File: Appendices/azimuthal_continuity/distn_of_displacement.png Graphic file (t
+ype png)
+<use Appendices/azimuthal_continuity/distn_of_displacement.png>
+Package pdftex.def Info: Appendices/azimuthal_continuity/distn_of_displacement.
+png  used on input line 95.
+(pdftex.def)             Requested size: 227.00876pt x 170.60352pt.
+
+Overfull \hbox (1.56232pt too wide) in paragraph at lines 93--97
+ [][] 
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<Appendices/tech_crop.png, id=53, 654.2844pt x 302.3295pt>
+File: Appendices/tech_crop.png Graphic file (type png)
+<use Appendices/tech_crop.png>
+Package pdftex.def Info: Appendices/tech_crop.png  used on input line 103.
+(pdftex.def)             Requested size: 504.46736pt x 233.09889pt.
+[2 <./Appendices/MSD_concepts.png>] [3 <./Appendices/azimuthal_continuity/fig1_
+5ns.png> <./Appendices/azimuthal_continuity/distn_of_displacement.png>]
+Underfull \hbox (badness 1845) in paragraph at lines 146--147
+\OT1/cmr/m/n/12 is zigzag and the $\OML/cmm/m/it/12 y$\OT1/cmr/m/n/12 -directio
+n is arm-chair.
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+Underfull \hbox (badness 1033) in paragraph at lines 181--184
+\OT1/cmr/m/n/12 tem in-tro-duce un-phys-i-cal hy-dro-dy-namic ef-
+ []
+
+[4 <./Appendices/tech_crop.png>]
+<Figures/finite_size_work/finite_size_work.png, id=100, 678.1335pt x 696.9237pt
+>
+File: Figures/finite_size_work/finite_size_work.png Graphic file (type png)
+<use Figures/finite_size_work/finite_size_work.png>
+Package pdftex.def Info: Figures/finite_size_work/finite_size_work.png  used on
+ input line 209.
+(pdftex.def)             Requested size: 504.46736pt x 518.44846pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<Appendices/402_WaterO_num_density_armchair.png, id=106, 233.1912pt x 205.2468p
+t>
+File: Appendices/402_WaterO_num_density_armchair.png Graphic file (type png)
+<use Appendices/402_WaterO_num_density_armchair.png>
+Package pdftex.def Info: Appendices/402_WaterO_num_density_armchair.png  used o
+n input line 225.
+(pdftex.def)             Requested size: 176.56665pt x 155.40977pt.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+Overfull \hbox (9.51396pt too wide) in paragraph at lines 233--233
+[]\OT1/cmr/m/n/10 (a)|| 
+ []
+
+<Figures/phi_distn_vacuum/DOQ_8_phi_distn.png, id=107, 209.1012pt x 200.4288pt>
+
+File: Figures/phi_distn_vacuum/DOQ_8_phi_distn.png Graphic file (type png)
+<use Figures/phi_distn_vacuum/DOQ_8_phi_distn.png>
+Package pdftex.def Info: Figures/phi_distn_vacuum/DOQ_8_phi_distn.png  used on 
+input line 233.
+(pdftex.def)             Requested size: 148.36078pt x 142.2047pt.
+
+Overfull \hbox (10.06952pt too wide) in paragraph at lines 234--234
+[]\OT1/cmr/m/n/10 (b)|| 
+ []
+
+<Figures/theta_distn_vacuum/DOQ_8_theta_distn_symmetry.png, id=108, 326.9013pt 
+x 200.4288pt>
+File: Figures/theta_distn_vacuum/DOQ_8_theta_distn_symmetry.png Graphic file (t
+ype png)
+<use Figures/theta_distn_vacuum/DOQ_8_theta_distn_symmetry.png>
+Package pdftex.def Info: Figures/theta_distn_vacuum/DOQ_8_theta_distn_symmetry.
+png  used on input line 234.
+(pdftex.def)             Requested size: 231.94193pt x 142.2047pt.
+
+Overfull \hbox (9.51396pt too wide) in paragraph at lines 241--241
+[]\OT1/cmr/m/n/10 (a)|| 
+ []
+
+<Figures/groove/jump/solvated_ring.png, id=109, 462.528pt x 346.896pt>
+File: Figures/groove/jump/solvated_ring.png Graphic file (type png)
+<use Figures/groove/jump/solvated_ring.png>
+Package pdftex.def Info: Figures/groove/jump/solvated_ring.png  used on input l
+ine 241.
+(pdftex.def)             Requested size: 201.78386pt x 151.33786pt.
+
+Overfull \hbox (10.06952pt too wide) in paragraph at lines 242--242
+[]\OT1/cmr/m/n/10 (b)|| 
+ []
+
+<Figures/groove/jump/vacuum_ring.png, id=110, 462.528pt x 346.896pt>
+File: Figures/groove/jump/vacuum_ring.png Graphic file (type png)
+<use Figures/groove/jump/vacuum_ring.png>
+Package pdftex.def Info: Figures/groove/jump/vacuum_ring.png  used on input lin
+e 242.
+(pdftex.def)             Requested size: 201.78386pt x 151.33786pt.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 251.
+[5] [6 <./Figures/finite_size_work/finite_size_work.png>] [7 <./Appendices/402_
+WaterO_num_density_armchair.png> <./Figures/phi_distn_vacuum/DOQ_8_phi_distn.pn
+g> <./Figures/theta_distn_vacuum/DOQ_8_theta_distn_symmetry.png> <./Figures/gro
+ove/jump/solvated_ring.png> <./Figures/groove/jump/vacuum_ring.png>]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 251.
+
+(./molecules-1734869-supplementary.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 251.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 251.
+Package rerunfilecheck Info: File `molecules-1734869-supplementary.out' has not
+ changed.
+(rerunfilecheck)             Checksum: E22DBC4EF719E6859862AB9C092CAFD5;209.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 251.
+ ) 
+Here is how much of TeX's memory you used:
+ 9988 strings out of 480608
+ 151700 string characters out of 5907536
+ 443383 words of memory out of 5000000
+ 25641 multiletter control sequences out of 15000+600000
+ 544091 words of font info for 70 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 63i,18n,100p,1581b,575s stack positions out of 5000i,500n,10000p,200000b,80000s
+<c:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb><c:/tex
+live/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><c:/texlive/2020
+/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb><c:/texlive/2020/texmf-di
+st/fonts/type1/public/amsfonts/cm/cmmi10.pfb><c:/texlive/2020/texmf-dist/fonts/
+type1/public/amsfonts/cm/cmmi12.pfb><c:/texlive/2020/texmf-dist/fonts/type1/pub
+lic/amsfonts/cm/cmmi7.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/amsfon
+ts/cm/cmmi8.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr1
+0.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb><c:/
+texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb><c:/texlive/202
+0/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb><c:/texlive/2020/texmf-dis
+t/fonts/type1/public/amsfonts/cm/cmss12.pfb><c:/texlive/2020/texmf-dist/fonts/t
+ype1/public/amsfonts/cm/cmssbx10.pfb><c:/texlive/2020/texmf-dist/fonts/type1/pu
+blic/amsfonts/cm/cmsy10.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/amsf
+onts/cm/cmsy7.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cm
+sy8.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb><
+c:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb><c:/texliv
+e/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb><c:/texlive/2020/te
+xmf-dist/fonts/type1/public/amsfonts/cm/cmtt12.pfb>
+Output written on molecules-1734869-supplementary.pdf (7 pages, 1770176 bytes).
+
+PDF statistics:
+ 214 PDF objects out of 1000 (max. 8388607)
+ 159 compressed objects within 2 object streams
+ 34 named destinations out of 1000 (max. 500000)
+ 83 words of extra memory for PDF output out of 10000 (max. 10000000)
+

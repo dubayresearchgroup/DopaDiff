@@ -1,0 +1,28 @@
+import "oplsaa.lt" 	# Defines the "OPLSAA" force field
+
+# The "oplsaa.lt" file contains force-field definitions and masses for the 
+# atoms in your system.  See oplsaa_lt_generator/README.TXT for details.
+
+# Note:
+# Atom type 1001 corresponds to "Silver Atom"
+
+
+silver inherits OPLSAA {
+
+  # atom-id  mol-id  atom-type charge      X         Y        Z
+
+  write('Data Atoms') {
+    $atom:Ag   $mol @atom:1001   0.00  0.00 0.00 0.00
+  }
+  # Note: You don't have to specify the charge in this example because
+  #       we are using the OPLSAA force-field assigns this by atom-type.
+  #       Just leave these numbers as 0.00 for now.
+
+} # Ends silver
+
+
+
+# Note: You don't need to supply the partial partial charges of the atoms.
+#       If you like, just fill the fourth column with zeros ("0.000").
+#       Moltemplate and LAMMPS will automatically assign the charge later
+

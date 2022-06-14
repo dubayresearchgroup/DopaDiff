@@ -1,0 +1,33 @@
+import "TIP3P.lt"  		# Defines the "TIP3P" molecule
+import "CNT15z.lt"		# Defines the "SWCNT" molecule
+
+# Periodic Boundaries Conditions:
+write_once("Data Boundary") {
+   0.0  60  xlo xhi
+   0.0  60  ylo yhi
+   0.0  102.096  zlo zhi
+}
+
+# Create the system
+
+electrode = new CNT15z
+
+solvent1 = new TIP3P[7].move(1.8, 0, 0)
+ 				        [7].move(0, 1.8, 0)
+ 				        [37].move(0, 0, 2)
+delete solvent1[0-1][*][36]
+delete solvent1[2][0-1][36]
+
+solvent2 = new TIP3P[14].move(1.8, 0, 0)
+ 				        [14].move(0, 1.8, 0)
+ 				        [48].move(0, 0, 2)
+
+# Now shift the positions of all of molecules, 
+# to reduce the chance of overlapping with other molecules.
+
+electrode.move(30, 30, 0)
+
+
+solvent1[*][*][*].move(-5.4, -5.4, 0)
+solvent1[*][*][*].move(30, 30, -36)
+solvent2[*][*][*].move(-11.7, -11.7, -47)

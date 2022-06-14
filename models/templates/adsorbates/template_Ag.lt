@@ -1,0 +1,2 @@
+import "Ag.lt"						# Defines the "silver" molecule
+analyte = new silver

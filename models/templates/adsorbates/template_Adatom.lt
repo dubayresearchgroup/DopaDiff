@@ -1,0 +1,2 @@
+import "Adatom.lt"			# Defines the "adatom" molecule
+analyte = new Adatom

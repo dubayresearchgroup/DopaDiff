@@ -1,0 +1,3 @@
+import "DA.lt"				# Defines the "dopamine" molecule
+analyte = new dopamine
+analyte.move(-6.15, -10.65, -4.12)

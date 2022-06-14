@@ -1,0 +1,85 @@
+import "oplsaa.lt" 	# Defines the "OPLSAA" force field
+
+# The "oplsaa.lt" file contains force-field definitions and masses for the 
+# atoms in your system.  See oplsaa_lt_generator/README.TXT for details.
+
+# Note:
+# Atom type 81 corresponds to "Alkane -CH2-"
+# Atom type 85 corresponds to "Alkane H-C"
+# Atom type 90 corresponds to "Aromatic C"
+# Atom type 91 corresponds to "Aromatic H-C"
+# Atom type 108 corresponds to "Phenol C-OH/Aromatic C"
+# Atom type 109 corresponds to "Phenol -OH"
+# Atom type 110 corresponds to "Phenol -OH"
+# Atom type 730 corresponds to "Amine RNH2"
+# Atom type 736 corresponds to "Amine RCH2-NH2"
+# Atom type 739 corresponds to "Amine RNH2"
+# Atom type 1000 corresponds to "Graphene C" (No partial charge)
+
+
+
+dopamine inherits OPLSAA {
+
+  # atom-id  mol-id  atom-type charge      X         Y        Z
+
+  write('Data Atoms') {
+    $atom:C1   $mol @atom:108   0.00  5.45  7.575 4.12
+    $atom:C2   $mol @atom:108   0.00  6.85  7.575 4.12
+    $atom:C3   $mol @atom:90    0.00  7.55  8.788 4.12
+    $atom:C4   $mol @atom:90    0.00  6.85  10  4.12
+    $atom:C5   $mol @atom:90    0.00  5.45  10  4.12
+    $atom:C6   $mol @atom:90    0.00  4.75  8.788 4.12
+    $atom:C7   $mol @atom:94    0.00  4.75  11.372  4.12
+    $atom:C8   $mol @atom:736   0.00  5.45  12.743  4.12
+    $atom:N9   $mol @atom:730   0.00  4.75  14.036  4.12
+    $atom:O10  $mol @atom:109   0.00  4.75  6.409 4.12
+    $atom:O11  $mol @atom:109   0.00  7.55  6.409 4.12
+    $atom:H12  $mol @atom:110   0.00  4.75  5.449 4.12
+    $atom:H13  $mol @atom:110   0.00  7.55  5.449 4.12
+    $atom:H14  $mol @atom:91    0.00  3.66  8.788 4.12
+    $atom:H15  $mol @atom:91    0.00  8.64  8.788 4.12
+    $atom:H16  $mol @atom:91    0.00  7.355 10.875  4.12
+    $atom:H17  $mol @atom:85    0.00  4.245 11.372  4.995
+    $atom:H18  $mol @atom:85    0.00  4.245 11.372  3.245
+    $atom:H19  $mol @atom:85    0.00  5.955 12.743  4.995
+    $atom:H20  $mol @atom:85    0.00  5.955 12.743  3.245
+    $atom:H21  $mol @atom:739   0.00  3.74  14.036  4.12
+    $atom:H22  $mol @atom:739   0.00  5.255 14.911  4.12
+  }
+  # Note: You don't have to specify the charge in this example because
+  #       we are using the OPLSAA force-field assigns this by atom-type.
+  #       Just leave these numbers as 0.00 for now.
+
+  write('Data Bond List') {
+    $bond:OH1    $atom:O10  $atom:H12
+    $bond:OH2    $atom:O11  $atom:H13
+    $bond:CO1    $atom:C1   $atom:O10
+    $bond:CO2    $atom:C2   $atom:O11
+    $bond:CA1    $atom:C1   $atom:C2
+    $bond:CA2    $atom:C2   $atom:C3
+    $bond:CA3    $atom:C3   $atom:C4
+    $bond:CA4    $atom:C4   $atom:C5
+    $bond:CA5    $atom:C5   $atom:C6
+    $bond:CA6    $atom:C6   $atom:C1
+    $bond:Ph1    $atom:C6   $atom:H14
+    $bond:Ph2    $atom:C3   $atom:H15
+    $bond:Ph3    $atom:C4   $atom:H16
+    $bond:CH1    $atom:C7   $atom:H17
+    $bond:CH2    $atom:C7   $atom:H18
+    $bond:CH3    $atom:C8   $atom:H19
+    $bond:CH4    $atom:C8   $atom:H20
+    $bond:Bz1    $atom:C5   $atom:C7
+    $bond:C1     $atom:C7   $atom:C8
+    $bond:CN     $atom:C8   $atom:N9
+    $bond:NH1    $atom:N9   $atom:H21
+    $bond:NH2    $atom:N9   $atom:H22
+  }
+
+} # dopamine
+
+
+
+# Note: You don't need to supply the partial partial charges of the atoms.
+#       If you like, just fill the fourth column with zeros ("0.000").
+#       Moltemplate and LAMMPS will automatically assign the charge later
+

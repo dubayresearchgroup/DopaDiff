@@ -1,0 +1,37 @@
+import "oplsaa.lt" 	# Defines the "OPLSAA" force field
+
+# The "oplsaa.lt" file contains force-field definitions and masses for the 
+# atoms in your system.  See oplsaa_lt_generator/README.TXT for details.
+
+# Note:
+# Atom type 63 corresponds to "TIP3P Water O"
+# Atom type 64 corresponds to "TIP3P Water H"
+
+
+
+TIP3P inherits OPLSAA {
+
+  # atom-id  mol-id  atom-type charge      X         Y        Z
+
+  write('Data Atoms') {
+    $atom:O   $mol @atom:63  0.00   0.0000    0.0000  0.000000
+    $atom:H1  $mol @atom:64  0.00   0.5814    0.7513  0.000000
+    $atom:H2  $mol @atom:64  0.00   0.5814   -0.7513  0.000000
+  }
+  # Note: You don't have to specify the charge in this example because
+  #       we are using the OPLSAA force-field assigns this by atom-type.
+  #       Just leave these numbers as 0.00 for now.
+
+  write('Data Bond List') {
+    $bond:OH1  $atom:O $atom:H1
+    $bond:OH2  $atom:O $atom:H2
+  }
+
+} # TIP3P
+
+
+
+# Note: You don't need to supply the partial partial charges of the atoms.
+#       If you like, just fill the fourth column with zeros ("0.000").
+#       Moltemplate and LAMMPS will automatically assign the charge later
+

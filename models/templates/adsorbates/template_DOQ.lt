@@ -1,0 +1,3 @@
+import "DOQ.lt"				# Defines the "DOQ" molecule
+analyte = new DOQ
+analyte.move(-6.15, -10.65, -4.12)

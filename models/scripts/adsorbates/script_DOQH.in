@@ -1,0 +1,12 @@
+
+group		DA id 1:21
+
+group		amine id 9 19 20 21
+group		ring id 1:6
+group		quinone id 10 11
+
+group		C2 id 2
+group		C7 id 7
+
+group 		C3 id 3
+group		C6 id 6

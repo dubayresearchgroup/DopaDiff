@@ -1,0 +1,3 @@
+import "DOQH.lt"				# Defines the "DOQH" molecule
+analyte = new DOQH
+analyte.move(-6.15, -10.65, -4.12)

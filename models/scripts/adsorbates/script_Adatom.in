@@ -1,0 +1,12 @@
+
+group		DA id 1
+mass		27 153.18
+group		amine id 1
+group		ring id 1
+group		quinone id 1
+
+group		C2 id 1
+group		C7 id 1
+
+group 		C3 id 1
+group		C6 id 1

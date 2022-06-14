@@ -1,0 +1,32 @@
+
+import "TIP3P.lt"  			# Defines the "TIP3P" molecule
+import "graphene.lt"			# Defines the "graphene" molecule
+
+# Periodic Boundaries Conditions:
+write_once("Data Boundary") {
+   0.0  98.2419  xlo xhi
+   0.0  97.8420  ylo yhi
+   0.0  30  zlo zhi
+}
+
+# Create the system
+
+electrode = new graphene
+
+solvent1 = new TIP3P[32].move(2.8, 0, 0)
+				   	[32].move(0, 2.8, 0)
+				   	[4].move(0, 0, 3)
+
+solvent2 = new TIP3P[32].move(2.8, 0, 0)
+				    [32].move(0, 2.8, 0)
+				    [4].move(0, 0, 3)
+
+# Now shift the positions of all of molecules, 
+# to reduce the chance of overlapping with other molecules.
+
+electrode.move(0, 0, 15)
+
+analyte.move(49.12095, 48.921, 0)
+
+solvent1[*][*][*].move(0, 0, 18.0)
+solvent2[*][*][*].move(0, 0, 3.0)

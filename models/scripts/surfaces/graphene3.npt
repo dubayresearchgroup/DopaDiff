@@ -1,0 +1,34 @@
+# -- group commands --
+
+group		electrode molecule 2 3 4
+group		water molecule > 4
+group 		sys molecule 1 5:999999
+
+variable z equal xcm(electrode,z)
+
+# -- fix commands --
+
+fix 			fxCNT electrode setforce 0.0 0.0 0.0
+velocity		electrode set 0.0 0.0 0.0
+
+# -- simulation protocols --
+
+neigh_modify	one 10000
+timestep        1.0
+minimize 		1.0e-5 1.0e-7 10000 10000
+
+thermo          1000
+thermo_style 	custom step temp press vol lx ly lz v_z pzz
+
+dump            npttraj all custom 1000 npt.lammpstrj id xu yu zu
+
+velocity 		sys create 750.0 22903 rot yes dist gaussian
+
+fix 			fxnve sys nve
+run				50000
+unfix 			fxnve
+
+fix             fxnpt sys npt temp 300.0 300.0 100.0 z 1.0 1.0 1000.0
+run 			200000
+restart 		1000 restarts/restart.*.dopa
+run 			800000
